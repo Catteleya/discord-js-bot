@@ -8,7 +8,7 @@ Visit my website!
 eclipsethedev.github.io/AboutMe/
 ```
 # FAQ
-Can I upload a template?
+> Can I upload a template?
 ```
 Sure! As long as you use this folder formate:
 [name]s-discord-[coding language]-template
